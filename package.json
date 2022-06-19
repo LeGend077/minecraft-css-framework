@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/legend077/framework-docs.git"
+    "url": "git+https://github.com/legend077/minecraft-css-framework.git"
   },
   "keywords": [
     "css",
@@ -17,9 +17,9 @@
   "author": "LeGend077/legend1687",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/legend077/framework-docs/issues"
+    "url": "https://github.com/legend077/minecraft-css-framework/issues"
   },
-  "homepage": "https://github.com/legend077/framework-docs#readme",
+  "homepage": "https://github.com/legend077/minecraft-css-framework#readme",
   "dependencies": {
     "minecraft-framework-css": "^1.2.0"
   }
