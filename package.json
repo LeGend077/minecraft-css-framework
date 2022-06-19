@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/legend077/minecraft-css-framework/issues"
   },
-  "homepage": "https://github.com/legend077/minecraft-css-framework#readme",
-  "dependencies": {
-    "minecraft-framework-css": "^1.2.0"
-  }
+  "homepage": "https://github.com/legend077/minecraft-css-framework#readme"
 }
